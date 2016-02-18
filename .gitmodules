@@ -1,0 +1,7 @@
+[submodule "OpenGpad-Android"]
+    path = OpenGpad-Android
+    url = git@github.com:gavinliu/OpenGpad-Android.git
+
+[submodule "OpenGpad-PyQT"]
+    path = OpenGpad-PyQT
+    url = git@github.com:gavinliu/OpenGpad-PyQT.git
